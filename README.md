@@ -36,4 +36,4 @@ Java code is present in src/main/java/hello foler
 -To run this project run the following command.
  
  
- -- java -cp target/jb-hello-world-maven-0.1.0.jar hello.HelloWorld
+ -- java -cp target/jb-hello-world-maven-0.2.0.jar hello.HelloWorld
