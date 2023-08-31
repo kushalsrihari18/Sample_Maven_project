@@ -5,7 +5,7 @@ Building Java Projects with Maven
   
   What you’ll need
   
-   
+    
    -- A text editor or IDE
  
    
